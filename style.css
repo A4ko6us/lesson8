@@ -1,0 +1,23 @@
+li {
+    color: rgb(255, 0, 0);
+    font-size: larger;
+}
+p {
+    color: rgb(90, 39, 0);
+}
+h1 {
+    color: rgb(0, 0, 0);
+    font-size: xx-large;
+}
+body {
+    background-image: url('dog2.jpg');
+}
+div {
+    background-color: rgb(255, 212, 121); 
+    width: 500px;
+    border: 5px solid black;
+}
+img {
+    width: 20;
+    height: 30;
+}
